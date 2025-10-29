@@ -60,7 +60,7 @@ Ensured 24/7 uptime through system monitoring and preventive maintenance.
 ## 👨‍💻 Author
 **Abbas Abdulrahman Umar**  
 📧 [abbasabdulrahman08@gmail.com](mailto:abbasabdulrahman08@gmail.com)  
-🌐 [GitHub Profile](https://github.com/YourUsernameHere)  
+🌐 [GitHub Profile](https://github.com/abbasabdulrahman08)  
 💼 Networking | Cybersecurity | Hardware & Software Maintenance  
 
 ---
